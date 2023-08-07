@@ -3,4 +3,6 @@
     export let data: PageData;
 </script>
 
-<p>{data.word}</p>
+<div>
+    
+</div>
